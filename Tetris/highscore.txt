@@ -1,0 +1,3 @@
+1noname   200
+2noname     0
+3noname     0
